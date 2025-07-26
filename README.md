@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://lapinettexo.github.io/socials-links/)
+- Live Site URL: [live site URL here](https://lapinettexo.github.io/socials-links/)
 
 
 ### Built with
